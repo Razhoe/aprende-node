@@ -1,0 +1,17 @@
+{
+  "name": "03-basesnode",
+  "version": "0.0.1",
+  "description": "Es una tabla de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app.js --base=11"
+  },
+  "author": "Carlos López",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {}
+}
